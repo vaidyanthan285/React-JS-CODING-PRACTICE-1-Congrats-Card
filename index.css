@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+.heading {
+  font-size: 70px;
+  font-family: 'Roboto';
+  color: #0f172a;
+  position: absolute;
+  bottom: 60%;
+  left: 30%;
+}
+
+.box {
+  position: absolute;
+  text-align: center;
+  justify-content: center;
+  left: 30%;
+  height: 500px;
+  width: 500px;
+  bottom: 5%;
+  background-color: #cffafe;
+}
